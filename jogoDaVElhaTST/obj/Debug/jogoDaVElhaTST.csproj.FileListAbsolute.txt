@@ -1,0 +1,7 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\jogoDaVElhaTST\bin\Debug\jogoDaVElhaTST.exe.config
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\jogoDaVElhaTST\bin\Debug\jogoDaVElhaTST.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\jogoDaVElhaTST\bin\Debug\jogoDaVElhaTST.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\jogoDaVElhaTST\obj\Debug\jogoDaVElhaTST.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\jogoDaVElhaTST\obj\Debug\jogoDaVElhaTST.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\jogoDaVElhaTST\obj\Debug\jogoDaVElhaTST.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\jogoDaVElhaTST\obj\Debug\jogoDaVElhaTST.pdb
