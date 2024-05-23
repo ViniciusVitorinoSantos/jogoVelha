@@ -1,0 +1,7 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\tst01vetor\tst01vetor\bin\Debug\tst01vetor.exe.config
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\tst01vetor\tst01vetor\bin\Debug\tst01vetor.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\tst01vetor\tst01vetor\bin\Debug\tst01vetor.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\tst01vetor\tst01vetor\obj\Debug\tst01vetor.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\tst01vetor\tst01vetor\obj\Debug\tst01vetor.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\tst01vetor\tst01vetor\obj\Debug\tst01vetor.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\programasCS\tst01vetor\tst01vetor\obj\Debug\tst01vetor.pdb
